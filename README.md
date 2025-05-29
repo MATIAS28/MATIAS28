@@ -17,16 +17,8 @@
 
 ### 🛠️ Proyectos destacados
 
-- 🛒 [E-commerce MERN](https://github.com/tuusuario/ecommerce) – Carrito, autenticación, panel admin, MongoDB Atlas.
-- 📅 [App de reservas](https://github.com/tuusuario/reservas) – Calendario, autenticación, manejo de roles y pagos.
-
----
-
-### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=react" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=react" height="165">
-</p>
+- [E-commerce MERN FRONTEND](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
+- [E-commerce MERN BACkEND](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – Carrito, autenticación, panel admin, MongoDB Atlas.
 
 ---
 
