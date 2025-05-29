@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mu%C3%B1oz-00a7581b6/)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:matiasmunoz.dev@gmail.com)
-🌐 Portafolio: [Mi Portafolio](https://nextport-livid.vercel.app)
+[🌐 Mi Portafolio](https://nextport-livid.vercel.app)
 ---
 
 <p align="center">
