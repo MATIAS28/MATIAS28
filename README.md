@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Proyectos destacados
+Explorá mi portafolio en [Matias Muñoz](https://nextport-livid.vercel.app), donde presento una colección de proyectos desarrollados con el stack MERN (MongoDB, Express.js, React, Node.js). Cada proyecto refleja mi compromiso con la calidad del código, la escalabilidad y la experiencia del usuario. Algunos de los proyectos destacados incluyen:
 
 - 🛍️ [E-commerce MERN FRONTEND](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
 - 💻 [E-commerce MERN BACKEND](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
