@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/IVkI2OB.png" alt="Banner azul" />
-</p>
 
 <h1 align="center">Hola, soy Matías 👋</h1>
 
@@ -22,8 +19,8 @@
 
 ### 🛠️ Proyectos destacados
 
-- 🛒 [E-commerce MERN FRONTEND](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
-- 🛠️ [E-commerce MERN BACKEND](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
+- 🛍️ [E-commerce MERN FRONTEND](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
+- 💻 [E-commerce MERN BACKEND](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
 
 ---
 
