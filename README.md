@@ -1,5 +1,3 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.locofy.ai%2Fblog%2Fmern-stack-in-2023&psig=AOvVaw2EJqbWyv7pI_YWK6ZJ3l1W&ust=1752525464194000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjv0KLYuo4DFQAAAAAdAAAAABAE" alt="Descripción" style="width:100%;" />
-
 <h1 align="center">Hola, soy Matías 👋</h1>
 
 <p align="center">
