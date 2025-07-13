@@ -1,4 +1,5 @@
-![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1S6II-j9pke0wjp5B6Yf1WwsOywGarZ3KGw&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1S6II-j9pke0wjp5B6Yf1WwsOywGarZ3KGw&s" alt="Descripción" style="width:100%;" />
+
 <h1 align="center">Hola, soy Matías 👋</h1>
 
 <p align="center">
