@@ -18,40 +18,40 @@
 
 Explorá mi portafolio en [Matias Muñoz](https://nextport-livid.vercel.app), donde presento una colección de proyectos desarrollados con el stack MERN (MongoDB, Express.js, React, Node.js). Cada proyecto refleja mi compromiso con la calidad del código, la escalabilidad y la experiencia del usuario. Algunos de los proyectos destacados incluyen:
 
-Kowy Store – Ecommerce Fullstack MERN
-🔗 Deploy: [Render/Vercel]
+# 🛍️ Kowy Store – Ecommerce Fullstack MERN
 
-Este proyecto representa mi mayor logro como desarrollador hasta ahora: una tienda online construida 100% desde cero, abarcando diseño, backend, frontend e integración de servicios externos.
-Planifiqué el diseño en Figma y desarrollé toda la arquitectura utilizando el stack MERN. La app cuenta con funcionalidades completas de un ecommerce profesional:
+**Deploy:** [Render/Vercel](https://tulink.com)  
+**Repositorio:** Este proyecto representa uno de mis mayores logros como desarrollador, diseñado y desarrollado completamente desde cero.
 
-· Registro y autenticación de usuarios
+---
 
-· Búsqueda con filtros avanzados
+## 🚀 Descripción
 
-· Gestión de productos e imágenes con Cloudinary
+Kowy Store es una tienda online desarrollada con el stack MERN, con todas las funcionalidades esenciales de un ecommerce profesional. Me encargué del diseño en Figma, la estructura de la base de datos, el desarrollo del backend y frontend, y la integración de servicios externos.
 
-· Carrito de compras con control de stock en tiempo real
+🔧 Funcionalidades principales:
 
-· Integración de pagos con Mercado Pago
+- Registro y autenticación de usuarios
+- Búsqueda y filtrado de productos
+- Gestión de productos e imágenes con Cloudinary
+- Carrito de compras con control de stock
+- Pagos integrados con Mercado Pago (checkout y webhooks)
+- Panel de administración para gestión de productos y pedidos
+- Seguimiento de órdenes
 
-· Panel administrativo para gestión de productos y pedidos
+Todo el desarrollo fue realizado de forma autodidacta, con foco en crear una app robusta, escalable y lista para producción.
 
-· Sistema de seguimiento de órdenes
+---
 
-Todo el desarrollo fue realizado de forma autodidacta, aplicando buenas prácticas para lograr una app robusta, escalable y lista para producción.
+## 🛠️ Tecnologías y prácticas aplicadas
 
-💡 Tecnologías y prácticas destacadas:
-Diseño y consumo de APIs REST
-
-· Arquitectura de microservicios y control de flujos complejos
-
-· MongoDB: modelado de datos relacional y no relacional
-
-· Cloudinary: subida, optimización y gestión de imágenes
-
-· Context API para manejo del estado global en React
-
-· Integración completa con Mercado Pago (checkout, webhooks y validación)
+- **MongoDB + Mongoose** – Diseño y modelado de base de datos
+- **Express.js** – Desarrollo de APIs REST
+- **React + Context API** – Frontend y manejo de estado global
+- **Node.js** – Lógica del backend y microservicios
+- **Cloudinary** – Carga y gestión de imágenes
+- **Mercado Pago** – Pasarela de pagos e integración completa
+- **Figma** – Diseño de UI/UX
 
 - 🛍️ [E-commerce MERN FRONTEND](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
 - 💻 [E-commerce MERN BACKEND](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
