@@ -18,6 +18,41 @@
 
 Explorá mi portafolio en [Matias Muñoz](https://nextport-livid.vercel.app), donde presento una colección de proyectos desarrollados con el stack MERN (MongoDB, Express.js, React, Node.js). Cada proyecto refleja mi compromiso con la calidad del código, la escalabilidad y la experiencia del usuario. Algunos de los proyectos destacados incluyen:
 
+Kowy Store – Ecommerce Fullstack MERN
+🔗 Deploy: [Render/Vercel]
+
+Este proyecto representa mi mayor logro como desarrollador hasta ahora: una tienda online construida 100% desde cero, abarcando diseño, backend, frontend e integración de servicios externos.
+Planifiqué el diseño en Figma y desarrollé toda la arquitectura utilizando el stack MERN. La app cuenta con funcionalidades completas de un ecommerce profesional:
+
+· Registro y autenticación de usuarios
+
+· Búsqueda con filtros avanzados
+
+· Gestión de productos e imágenes con Cloudinary
+
+· Carrito de compras con control de stock en tiempo real
+
+· Integración de pagos con Mercado Pago
+
+· Panel administrativo para gestión de productos y pedidos
+
+· Sistema de seguimiento de órdenes
+
+Todo el desarrollo fue realizado de forma autodidacta, aplicando buenas prácticas para lograr una app robusta, escalable y lista para producción.
+
+💡 Tecnologías y prácticas destacadas:
+Diseño y consumo de APIs REST
+
+· Arquitectura de microservicios y control de flujos complejos
+
+· MongoDB: modelado de datos relacional y no relacional
+
+· Cloudinary: subida, optimización y gestión de imágenes
+
+· Context API para manejo del estado global en React
+
+· Integración completa con Mercado Pago (checkout, webhooks y validación)
+
 - 🛍️ [E-commerce MERN FRONTEND](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
 - 💻 [E-commerce MERN BACKEND](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
 
