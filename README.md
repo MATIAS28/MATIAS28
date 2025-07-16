@@ -21,8 +21,8 @@ Explorá mi portafolio en [Matias Muñoz](https://nextport-livid.vercel.app), do
 # 🛍️ Kowy Store – Ecommerce Fullstack MERN
 
 **Deploy:** [Render/Vercel](https://kowy-store.vercel.app)  
-**E-commerce MERN FRONTEND**(https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
-**E-commerce MERN BACKEND**(https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
+[**E-commerce MERN FRONTEND**](https://github.com/MATIAS28/kowy-store) – Carrito, autenticación, panel admin, MongoDB Atlas.
+[**E-commerce MERN BACKEND**](https://github.com/MATIAS28/kowy-store/tree/kowy-server) – API REST, autenticación, manejo de pedidos, MongoDB Atlas.
 
 ---
 
